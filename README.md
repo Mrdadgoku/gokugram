@@ -1,11 +1,11 @@
-# 🐾 Nekogram
+# 🐾 Gogram
 [![Crowdin](https://badges.crowdin.net/e/a094217ac83905ae1625526d59bba8dc/localized.svg)](https://neko.crowdin.com/nekogram)  
-Nekogram is a third-party Telegram client with not many but useful modifications.
+GOKUxEDITION is a third-party Telegram client with not many but useful modifications.
 
-- Website: https://nekogram.app
-- Telegram channel: https://t.me/nekoupdates
-- Downloads: https://nekogram.app/download
-- Feedback: https://github.com/Nekogram/Nekogram/issues
+- Website: https://gokuxmodz.xyz
+- Owner TG id: https://t.me/GOKUxEDITION 
+- Channel:https://t.me/GOKUxMODZ
+- Feedback: [https://github.com/Nekograhttps://github.com/Nekogram/Nekogram/issuesm/Nekogram/issues](https://github.com/Mrdadgoku/gokugram)
 
 ## API, Protocol documentation
 
